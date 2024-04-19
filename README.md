@@ -13,3 +13,5 @@
 
 📈 Crescimento:
 - Estou sempre aberto a críticas construtivas e sugestões que possam me ajudar a crescer pessoal e profissionalmente.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonzepon&layout=compact)](https://github.com/evertonzepon/github-readme-stats)
