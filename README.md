@@ -4,9 +4,8 @@
 - Me chamo Everton Zepon e sou natural de Joinville, Santa Catarina.
 - Sou conhecido por minha personalidade calma e minha paixão por videogames 🎮.
 
-👨‍💻 Meus Interesses:
-- Meu interesse atual reside na área da programação.
-- Estou mergulhando no mundo de Java ☕.
+👨‍💻 Aprendizado:
+- Atualmente estou mergulhando no mundo de Java ☕.
 - Já tenho um conhecimento básico de HTML, CSS e JavaScript.
 
 🛠️ Minha Jornada:
