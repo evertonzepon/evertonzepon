@@ -6,7 +6,7 @@
 
 👨‍💻 Aprendizado:
 - Atualmente estou mergulhando no mundo de Java ☕.
-- Já tenho um conhecimento básico de HTML, CSS e JavaScript.
+- Familiaridade básica em HTML, CSS e JavaScript.
 
 📈 Crescimento:
 - Estou sempre aberto a críticas construtivas e sugestões que possam me ajudar a crescer pessoal e profissionalmente.
